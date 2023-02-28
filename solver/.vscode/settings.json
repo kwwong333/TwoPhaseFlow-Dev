@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "interFlow.C": "cpp",
+        "correctphi.h": "c",
+        "compressibleInterFlow.C": "cpp"
+    }
+}
